@@ -7,16 +7,16 @@ I want to draw a eyeglasses\
 ![eyeglasses4](https://user-images.githubusercontent.com/81345045/134112763-bd2428ac-693d-4624-a3b7-5e4c97c67f56.png)
 
 # Assignment2 (Draw 2D)
-Please create a WebGL-based Graphics application on the repo created in the previous assignment with the following specifications:\
-1. The application consists of HTML, JavaScript and CSS (optional) files.\
-2. The application contains only one Canvas.\
-3. The JavaScript application comprises the definition of vertices that embody the shape of the object photographed in the previous assignment: Select two of the four photos.\
-4. The definition of vertex includes position (x, y) and color (r, g, b) as represented on the selected photos.\
-5. The shape as shown on one of the selected photos is rendered on the left side of the Canvas: Located in the clip space between X = -1.0 and X = 0.0 axes.\
-6. The shape as shown in another selected photo is rendered on the right side of the Canvas: Located in the clip space between X = 0.0 and X = 1.0 axes.\
-7. The rendering result on the right side of the Canvas is animated vertically, bouncing back between the top and the bottom walls of the Canvas, with a speed of 0.0xxx units, where xxx is the last three digits of the NRP.\
-8. Do not forget to commit and push the changes.\
-The results of the task can be seen at <a href = "https://cg2021e.github.io/assignment-1-DwinandaBagoes/" target="_blank">here</a>\
+Please create a WebGL-based Graphics application on the repo created in the previous assignment with the following specifications:
+1. The application consists of HTML, JavaScript and CSS (optional) files.
+2. The application contains only one Canvas.
+3. The JavaScript application comprises the definition of vertices that embody the shape of the object photographed in the previous assignment: Select two of the four photos.
+4. The definition of vertex includes position (x, y) and color (r, g, b) as represented on the selected photos.
+5. The shape as shown on one of the selected photos is rendered on the left side of the Canvas: Located in the clip space between X = -1.0 and X = 0.0 axes.
+6. The shape as shown in another selected photo is rendered on the right side of the Canvas: Located in the clip space between X = 0.0 and X = 1.0 axes.
+7. The rendering result on the right side of the Canvas is animated vertically, bouncing back between the top and the bottom walls of the Canvas, with a speed of 0.0xxx units, where xxx is the last three digits of the NRP.
+8. Do not forget to commit and push the changes.
+The results of the task can be seen at <a href = "https://cg2021e.github.io/assignment-1-DwinandaBagoes/" target="_blank">here</a>
 
 # Assignment3 (Draw 3D)
 Please continue your WebGL application on the same repository as the previous assignment (https://classroom.github.com/a/wxGcZEWk) with the following specifications:
@@ -31,4 +31,4 @@ Please continue your WebGL application on the same repository as the previous as
 8. Add a metal specular effect for the object on the right. 
 9. Set the cube so that it can be moved upward with the W key-button and downward with the S key-button. 
 10. Set the camera to move leftward and rightward linearly (not orbitally) using the A and D key-buttons.
-The results of the task can be seen at <a href = "" target="_blank">here</a>\
+The results of the task can be seen at <a href = "" target="_blank">here</a>
