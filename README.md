@@ -32,3 +32,6 @@ Please continue your WebGL application on the same repository as the previous as
 9. Set the cube so that it can be moved upward with the W key-button and downward with the S key-button. 
 10. Set the camera to move leftward and rightward linearly (not orbitally) using the A and D key-buttons.
 The results of the task can be seen at <a href = "https://cg2021e.github.io/assignment-1-DwinandaBagoes/Tugas3/" target="_blank">here</a>
+
+# Hackaton
+The results of the task can be seen at <a href = "https://cg2021e.github.io/assignment-1-DwinandaBagoes/hackaton/" target="_blank">here</a>
