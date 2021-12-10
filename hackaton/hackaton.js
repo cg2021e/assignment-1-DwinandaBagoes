@@ -445,4 +445,8 @@ function challenge4(world, gl) {
     }, false);
 }
 
+function challenge5(world, gl) {
+}
+function challenge6(world, gl) {
+}
   main();
